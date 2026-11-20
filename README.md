@@ -1,7 +1,7 @@
 # 🐍 Estudos de Python e Lógica de Programação
 
 Bem-vindo ao meu repositório de estudos! Aqui eu salvo meus exercícios, anotações e testes enquanto aprendo programação na prática.
-
+**Aqui não possui projetos complexos, apenas exercícios soltos.**
 ---
 
 ### 📚 Materiais que estou usando
