@@ -16,7 +16,7 @@ Bem-vindo ao meu repositório de estudos! Aqui eu salvo meus exercícios, anota�
 - [x] Variáveis, tipos primitivos e operadores
 - [x] Estruturas condicionais (`if`, `elif`, `else`)
 - [ ] Laços de repetição (`for` e `while`)
-- [ ] Listas e Pesquisa Binária ($O(\log n)$)
+- [ ] Listas e Pesquisa Binária (O(log n))
 - [ ] Funções (`def`)
 
 ---
